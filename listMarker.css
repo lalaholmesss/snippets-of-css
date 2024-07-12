@@ -1,0 +1,8 @@
+ol::marker, ul::marker {
+    color: #ff6347; /* Use your desired color */
+}
+
+li::marker {
+  content: '✝ ';
+  font-size: 1.2em; /* To change the style and size of the marker */
+}
